@@ -11,7 +11,7 @@ global.session = "https://khanxmd-pair.onrender.com";
  
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "", // Add sess Id here espwcially when deploying on panels else use app.json and .env file...
-SUDO_NUMBERS: process.env.SUDO_NUMBERS || "24327784694366",
+SUDO_NUMBERS: process.env.SUDO_NUMBERS || "263717689873",
 ANTI_DELETE: process.env.ANTI_DELETE || "true", // can be set to inboxonly/allchats/true/false
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 AUTO_LIKE_STATUS: process.env.AUTO_LIKE_STATUS || "true",
