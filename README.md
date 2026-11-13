@@ -1,26 +1,26 @@
-<h1 align="center" style="font-family: 'Orbitron', sans-serif; font-size: 42px; color: #00FFFF; text-shadow: 4 0 10px #00FFFF, 0 0 25px #0088FF;">
-𝗝𝗔𝗪𝗔𝗗-𝗠𝗗
+<h1 align="center" style="font-family: 'Orbitron', sans-serif; font-size: 42px; color: #FF0000; text-shadow: 4 0 10px #FF0000, 0 0 25px #000000;">
+EXSANGUINATOR-MD🥷🥷
 </h1>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=EXSANGUINATOR-MD ;BY+OVERSEER;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
 </p>
 
 ---
 
-<h2 align="center">📊 JAWAD-MD Analytics </h2> 
+<h2 align="center">📊 EXSANGUINATOR-MD Analytics </h2> 
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=JawadYT36&label=Profile+Views&color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/stars/JawadYT36/JAWAD-MD?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/forks/JawadYT36/JAWAD-MD?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/repo-size/JawadYT36/JAWAD-MD?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/last-commit/JawadYT36/JAWAD-MD?color=ff00ff&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=EXSANGUINATOR&label=Profile+Views&color=ff00ff&style=flat-square" />
+<img src="https://img.shields.io/github/stars/JawadYT36/EXSANGUINATOR-MD?color=ff00ff&style=flat-square" />
+<img src="https://img.shields.io/github/forks/JawadYT36/EXSANGUINATOR-MD?color=ff00ff&style=flat-square" />
+<img src="https://img.shields.io/github/repo-size/EXSANGUINATOR-MD?color=ff00ff&style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/JawadYT36/EXSANGUINATOR-MD?color=ff00ff&style=flat-square" />
 
 </div>
 
@@ -35,7 +35,7 @@
 <p align="center"><strong>Limited Server 👻</strong></p>
 
 <p align="center">
-  <a href="https://jawadtech-vps.onrender.com" target="_blank">
+  <a href="https://Overseer-vps.onrender.com" target="_blank">
     <img 
       src="https://img.shields.io/badge/🚀 Deploy_from_Free_VPS-ffI0XOI?style=for-the-badge&logo=github&logoColor=white" 
       alt="Deploy Button"
@@ -47,7 +47,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JawadTechXD/JawadTechXD/refs/heads/main/jawadmd.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://raw.githubusercontent.com/JawadTechXD/Overseer/refs/heads/main/overseer.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 ---
@@ -58,7 +58,7 @@
 
   <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 4px solid #ff00ff;">
     <p style="color: #00ffff; font-size: 16px;">🚀 First, star & fork the repo using the button below:</p>
-    <a href='https://github.com/JawadYT36/JAWAD-MD/fork' target="_blank">
+    <a href='https://github.com/OverseerT36/JAWAD-MD/fork' target="_blank">
       <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
     </a>
   </div>
@@ -82,7 +82,7 @@
 
 ## 🚀 Pairing Dashboard
 
-> Securely link your device using the official JAWAD-MD pairing portals below: if connection issues may require vpn activation to fix this issue.
+> Securely link your device using the official EXSANGUINATOR-MD pairing portals below: if connection issues may require vpn activation to fix this issue.
 
 <div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; padding:20px;">
 
@@ -171,7 +171,7 @@
 
 ---
 
-## ✨ JAWAD-MD Features
+## ✨ EXSANGUINATOR-MD Features
 
 - 🤖 WhatsApp Multi-Device Support
 - 🔁 Anti-Delete (Text + Media)
