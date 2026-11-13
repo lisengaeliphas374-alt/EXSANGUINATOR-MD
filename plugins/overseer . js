@@ -1,0 +1,10 @@
+const { cmd } = require('../lib');
+cmd({
+  pattern: "overseer",
+  desc: "Overseer info",
+  category: "general",
+  react: "👑",
+  filename: __filename
+}, async (Void, citel) => {
+  await citel.reply("👑 *OVERSEER ONLINE*\n\nI am watching. I am managing.\n\nType .menu to see commands.");
+});
