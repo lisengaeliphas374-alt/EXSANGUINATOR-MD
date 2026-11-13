@@ -1,0 +1,11 @@
+const { cmd } = require('../lib');
+cmd({
+  pattern: "goodmorning",
+  alias: ["gm", "morning"],
+  desc: "Good morning",
+  category: "general",
+  react: "🌅",
+  filename: __filename
+}, async (Void, citel) => {
+  await citel.reply("🌅 *Good Morning broe!*\n\nHave a blessed day 👑\n\n- Overseer");
+});
